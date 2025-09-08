@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-<p>I am a junior programmer passionate about coding. Although I started later than most, as they say, it’s never too late to learn.</p>
+<p>I am a junior developer passionate about coding. Although I started later than most, as they say, it’s never too late to learn.</p>
 
 <p>Every day I dedicate myself to studying and improving in this field, and although I have always felt comfortable with Python and backend development, I am now exploring other languages, such as React Native and beyond.</p>
 
