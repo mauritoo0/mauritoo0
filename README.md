@@ -49,7 +49,7 @@
 
 <h4 align="left">Social Networks and Contact Info</h4>  
 <span> 
-<a href="http://www.linkedin.com/in/mauro-favieri-robles-a693942b0" target="_blank">
+<a href="http://www.linkedin.com/in/maurofavieri" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </a>
 <a href="mailto:maurofavieri@hotmail.com">
